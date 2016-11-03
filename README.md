@@ -1,6 +1,6 @@
 Twitter converts images with no transparent (or semi-transparent) pixels
 to JPEG, which is unacceptable sometimes (e. g. for screenshots). This tool adds
-a fully transparent row to a PNG image, to Twitter doesn't compress it.
+a fully transparent row to a PNG image, so Twitter doesn't compress it.
 
 Example:
 
